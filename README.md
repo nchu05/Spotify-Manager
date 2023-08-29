@@ -5,6 +5,8 @@ Homescreen includes options to log-in with Spotify account and search up album n
 
 <img width="1440" alt="Screen Shot 2023-08-29 at 4 38 12 PM" src="https://github.com/nchu05/SpotifyManager/assets/122313343/33e6f12b-8973-46d3-a57b-4937db54742a">
 
+
+
 User-friendly GUI and functional song cards allows users to access their favorite albums by clicking on the pictures.
 
 <img width="1440" alt="Screen Shot 2023-08-29 at 4 39 28 PM" src="https://github.com/nchu05/SpotifyManager/assets/122313343/281ed764-a34d-438d-af1b-f0f56adda582">
