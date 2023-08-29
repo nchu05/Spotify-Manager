@@ -1,4 +1,4 @@
-# SpotifyManager
+# Spotify Manager
 This project utilizes ReactJS, Javascript, HTML, CSS, and the Spotify API to display albums in a user-friendly GUI.
 
 Homescreen includes options to log-in with Spotify account and search up album names. 
