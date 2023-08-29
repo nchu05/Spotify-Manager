@@ -1,6 +1,12 @@
 # SpotifyManager
 This project utilizes ReactJS, Javascript, HTML, CSS, and the Spotify API to display albums in a user-friendly GUI.
 
+Homescreen includes options to log-in with Spotify account and search up album names. 
+<img width="1440" alt="Screen Shot 2023-08-29 at 4 38 12 PM" src="https://github.com/nchu05/SpotifyManager/assets/122313343/33e6f12b-8973-46d3-a57b-4937db54742a">
+
+User-friendly GUI and functional song cards allows users to access their favorite albums by clicking on the pictures.
+<img width="1439" alt="Screen Shot 2023-08-29 at 4 38 45 PM" src="https://github.com/nchu05/SpotifyManager/assets/122313343/cf5ef6cc-7a77-4cc6-8dc0-ef1d3282d9b3">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
