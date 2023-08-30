@@ -4,12 +4,13 @@ This project utilizes ReactJS, Javascript, HTML, CSS, and the Spotify API to dis
 Homescreen includes options to log-in with Spotify account and search up album names. 
 
 <img width="1440" alt="Screen Shot 2023-08-29 at 4 38 12 PM" src="https://github.com/nchu05/SpotifyManager/assets/122313343/33e6f12b-8973-46d3-a57b-4937db54742a">
-
+<br/>
 
 
 User-friendly GUI allows users to access their favorite albums by clicking on the song cards, which direct them straight to the album on Spotify.com.
 
 <img width="1439" alt="Screen Shot 2023-08-29 at 4 38 45 PM" src="https://github.com/nchu05/Spotify-Manager/assets/122313343/7d3a4e52-acf5-4228-a00a-45f286b9cb7c">
+<br/>
 
 Search results are updated constantly and use the Spotify API for accurate and relevant results.
 
