@@ -11,6 +11,9 @@ User-friendly GUI allows users to access their favorite albums by clicking on th
 
 <img width="1439" alt="Screen Shot 2023-08-29 at 4 38 45 PM" src="https://github.com/nchu05/Spotify-Manager/assets/122313343/7d3a4e52-acf5-4228-a00a-45f286b9cb7c">
 
+
+<img width="1440" alt="Screen Shot 2023-08-29 at 4 39 28 PM" src="https://github.com/nchu05/Spotify-Manager/assets/122313343/a99a7477-71b7-4aec-8cd3-bf7945e373c7">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
